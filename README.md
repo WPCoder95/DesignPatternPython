@@ -1,1 +1,1 @@
-# DesignPattern【Python2】
+# DesignPattern[Python2]
